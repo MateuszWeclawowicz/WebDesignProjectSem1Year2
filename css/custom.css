@@ -1,0 +1,20 @@
+.productImage {
+  height: 60%;
+  width: 100%;
+}
+
+.checkoutImage {
+  width: 12rem !important;
+  height: 15rem !important;
+  padding: 0 1rem 0 1rem;
+}
+
+.checkoutList {
+  max-height: 40rem;
+}
+
+.cardDiv {
+  width: 90%;
+  bottom: 0.5rem;
+  position: absolute;
+}/*# sourceMappingURL=custom.css.map */

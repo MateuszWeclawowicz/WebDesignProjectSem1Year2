@@ -1,0 +1,26 @@
+$productImgHeight:60%;
+$productImgWidth:100%;
+.productImage{
+    height: $productImgHeight;
+    width: $productImgWidth;
+}
+$checkoutImgHeight: 15rem;
+$checkoutImgWidth: 12rem;
+$checkoutImgPadding: 1rem;
+.checkoutImage{
+    width: $checkoutImgWidth !important;
+    height: $checkoutImgHeight !important; 
+    
+    padding: 0 $checkoutImgPadding 0 $checkoutImgPadding;
+}
+$maxHeight: 40rem;
+.checkoutList{
+    max-height: $maxHeight;
+}
+.cardDiv{
+    $bottom: 0.5rem;
+    $width: 90%;
+    width: $width;
+    bottom: $bottom;
+    position:absolute;
+}
